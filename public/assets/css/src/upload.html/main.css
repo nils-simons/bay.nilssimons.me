@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+#input-up {
+    width: 80vw;
+    height: 80vh;
+    background-color: rgb(242, 242, 242);
+    border: 2px solid rgb(85, 85, 85);
+    border-radius: 6px;
+}
